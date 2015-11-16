@@ -20,6 +20,7 @@
 /**
  * Created by Roma on 28.09.2015.
  */
+/*test*/
 public class imageProcessingGUI extends Thread {
 
     public String frameName = "Image processing";
